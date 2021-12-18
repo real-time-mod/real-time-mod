@@ -1,2 +1,2 @@
-# real-time-mod
+# Real Time Mod
 The Real Time Minecraft Mod
