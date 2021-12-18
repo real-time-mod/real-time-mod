@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/real-time-mod/real-time-mod",
+  "1.17.1": {
+    "1.0.0": "Added support for time to be the same as the host of the world.\nAdded support for a calendar for viewing some other date and time related things."
+  },
+  "promos": {
+    "1.17.1-latest": "1.0.0",
+    "1.17.1-recommended": "1.0.0"
+  }
+}
